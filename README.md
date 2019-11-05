@@ -1,5 +1,4 @@
-# NisumResolution
-## My Nisum application
+# My Nisum application
 
 > To start this project you must have Maven installed in your system.
 
