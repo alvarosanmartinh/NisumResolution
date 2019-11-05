@@ -1,0 +1,1 @@
+INSERT INTO tbl_persona_info (id, name, last_name, address, phone, hair_colour) VALUES (1, 'Andres', 'Zamora', 'Calle 1', 9632586, 'black')
