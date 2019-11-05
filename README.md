@@ -7,3 +7,4 @@ Once you have Maven properly installed, you will be able to locally deploy the p
 - `mvn install`
 - `mvn spring-boot:run`
 
+Once the deploy task finishes, open http://localhost:8081/swagger-ui.html#/ in your browser and use Swagger to test the endpoints.
