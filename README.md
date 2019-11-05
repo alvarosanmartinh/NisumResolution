@@ -11,4 +11,4 @@ Once the deploy task finishes, open http://localhost:8081/swagger-ui.html#/ in y
 
 
 
-![Swagger screenshot](C:\dev\git\NisumResolution\Screenshot_Swagger.png)
+![Swagger screenshot](Screenshot_Swagger.png)
